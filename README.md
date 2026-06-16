@@ -13,4 +13,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Project issue drafts
+
+Issue drafts are available in the `issues/` folder. To publish them as GitHub issues, use the `scripts/create_issues.sh` helper (requires `gh` CLI and auth).
 
